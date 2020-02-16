@@ -1,0 +1,6 @@
+track_id,fleet_id,source,destination,date_of_departure,date_of_arrival,duration,load,operation_status
+A4010,170412,Goerge Town,Kaula Lumpur,2019-04-18,2019-05-02,48 hours,,Completed
+A4020,170412,Kaula Lumpur,Goerge Town,2019-06-02,,,,Transit
+A5001,160421,Kaula Lampur,Malaka,2019-04-12,2019-04-28,44 hours,,Completed
+A5002,160421,Melaka,Kaula Lumpur,2019-05-02,2019-05-20,44 hours,,Completed
+A5003,160421,Kaila Lumpur ,Melaka,2019-06-01,,,,Delayed

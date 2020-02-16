@@ -1,0 +1,7 @@
+fleet_id,operator_name,fleet_type,capacity,status
+160421,KMK International Cargo Sdn Bhd Malaysia,Trucks,150 tons,Running
+170412,MCC Transport Sdn Bhd Malaysia,Trucks,120 tons,Running
+170418,Pan Malaysia Lorry Services Sdn Bhd Malaysia,Trucks,120 tons,Running
+180512,Java Logistics Sdn Bhd Malaysia,Trucks,150 tons,Running
+180622,Java Logistics Sdn Bhd Malaysia,Cargos,1200 tons,Planned
+18901,KMK International Cargo Sdn Bhd Malaysia,Cargos,1000 tons,Inactive
